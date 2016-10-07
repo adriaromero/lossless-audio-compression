@@ -1,0 +1,17 @@
+DECLARACIÓN.TXT
+
+Funciones de MATLAB que ya están implementadas y hemos utilizado en el código:
+
+	- audioread - Read audio file
+	- levinson - Levinson-Durbin recursion
+	- autocorr - Sample autocorrelation
+	- dlmread - Read ASCII-delimited file of numeric data into matrix
+	- arithenco - Encode sequence of symbols using arithmetic coding
+	- arithdeco - Decode binary code using arithmetic decoding
+	- reshape - Reshape array
+
+Todas las demás funciones se han implementado por nuestra cuenta.
+
+Para probar el código:
+
+>> main(‘audio_input.wav’);
