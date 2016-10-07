@@ -1,4 +1,4 @@
-# LOSSLESS AUDIO COMPRESSION IN IEEE 1857.2 STANDARD FOR ADVANCED AUDIO CODING
+# Lossless Audio Compression in IEEE 1857.2 Standard for Advanced Audio Coding
 
 # Authors: Adrià Romero López, Dan-Mihai Bădescu <br>
 Universitat Politècnica de Catalunya (UPC), Barcelona, 2015 
